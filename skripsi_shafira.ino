@@ -7,7 +7,6 @@
 #include "time.h"
 #include <stdlib.h>
 #include "DHT.h"
-//#include "global_variable.h"
 #include "variabel_regresi.h"
 #include "mqtt.h"
 #include "lcd.h"
